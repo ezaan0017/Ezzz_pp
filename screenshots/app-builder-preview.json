@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Ezz_pp",
+      "hasCanvas": false,
+      "bodyTextLen": 791,
+      "bodyTextHash": "63387a02e057139038fb7c9e6321936240285296ea238d187b21efb8163a5e62",
+      "bodyTextPrefix": "P Ezz_pp Private assistant New chat Chats New chat New chat Ask ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Ezz_pp",
+      "hasCanvas": false,
+      "bodyTextLen": 791,
+      "bodyTextHash": "a3167e56af2668979f4a09ebf4e4433cb836d646de1f6e39ff3336c8d731e7bb",
+      "bodyTextPrefix": "P Ezz_pp Private assistant New chat Chats New chat New chat Ask ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
